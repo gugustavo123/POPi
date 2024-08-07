@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("b2.png");
+    background-image: url();
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -154,3 +154,4 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
